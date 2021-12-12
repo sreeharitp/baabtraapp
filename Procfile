@@ -1,0 +1,1 @@
+web: gunicorn baabtraprj.wsgi --log-file -
